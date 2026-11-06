@@ -32,9 +32,8 @@ The project aims to uncover insights into Netflix's movies and TV shows, content
 - Monitor content growth and genre performance to guide future content acquisition.
 
 ## Project Files
-- Power BI Dashboard (.pbix)
-- Dashboard Screenshots
-- Dataset (if shareable)
+- 
+- 
 
 ## Author
 Renal Salah
