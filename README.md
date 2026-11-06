@@ -31,10 +31,22 @@ The project aims to uncover insights into Netflix's movies and TV shows, content
 - Analyze regional content trends to support localization strategies.
 - Monitor content growth and genre performance to guide future content acquisition.
 
-## Project Files
-- 
-- 
+## Dashboard Preview
 
+### Dashboard Overview
+![Overview](<Screenshot 2026-11-02 215657.png>)
+
+### Dashboard Analysis - Page 2
+![Analysis](<Screenshot 2026-11-02 215715.png>)
+
+### Dashboard Analysis - Page 3
+![Analysis](<Screenshot 2026-11-02 215745.png>)
+
+### Dashboard Analysis - Page 4
+![Analysis](<Screenshot 2026-11-02 215812.png>)
+
+### Dashboard Analysis - Page 5
+![Analysis](<Screenshot 2026-11-02 215837.png>)
 ## Author
 Renal Salah
 
